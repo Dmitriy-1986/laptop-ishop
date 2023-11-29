@@ -294,4 +294,7 @@ ul li.laptop:after {
     .responsive-image {
         content: url('../images/mobile-bu-notebook.png');
     }
+
+    .footer-block {        
+        flex-direction: column;
 }
